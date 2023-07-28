@@ -12,4 +12,4 @@ $cd MarimoGroup
 
 $ls
 
-$python Marimoy.py
+$python Marimoy.pyx
