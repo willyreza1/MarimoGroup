@@ -12,6 +12,8 @@ $cd MarimoGroup
 
 $pip install requests
 
+$pip install rich
+
 $ls
 
 $python run.py
