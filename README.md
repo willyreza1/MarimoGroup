@@ -10,6 +10,8 @@ $git clone https://github.com/willyreza1/MarimoGroup
 
 $cd MarimoGroup
 
+$pip install requests
+
 $ls
 
 $python run.py
