@@ -14,6 +14,8 @@ $pip install requests
 
 $pip install rich
 
+$pip install bs4
+
 $ls
 
 $python run.py
